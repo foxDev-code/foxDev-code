@@ -1,6 +1,6 @@
 ```html
 <p align="center">
-  <img src="./banner.svg" alt="foxDev-code banner" width="1100" />
+  <img src="C:\Users\Satyarth\Downloads\Gemini_Generated_Image_xky8w8xky8w8xky8.png" alt="foxDev-code banner" width="1100" />
 </p>
 ```
 # 💫 About Me:
