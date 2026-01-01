@@ -1,3 +1,8 @@
+```html
+<p align="center">
+  <img src="./banner.svg" alt="foxDev-code banner" width="1100" />
+</p>
+```
 # 💫 About Me:
 🚀 AI Systems Engineer | CS Undergrad (AI & ML) 
 
