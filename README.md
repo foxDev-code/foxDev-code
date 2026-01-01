@@ -1,5 +1,6 @@
 # 💫 About Me:
-🚀 AI Systems Engineer | CS Undergrad (AI & ML)
+🚀 AI Systems Engineer | CS Undergrad (AI & ML) 
+
 I don’t just use tools; I architect reliable, system-level solutions. My focus is on the intersection of AI integration and scalable infrastructure, prioritizing data flow and architectural integrity over surface-level implementation. I specialize in taking complex ideas from concept to functional, end-to-end production systems.
 
 What I bring to the table:
