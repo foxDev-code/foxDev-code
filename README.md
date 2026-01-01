@@ -1,5 +1,16 @@
 # 💫 About Me:
-I am a first-year undergraduate student in Computer Science (AI & ML) with strong hands-on experience in building real, working systems, ranging from automation workflows to AI-powered applications.<br><br>I focus on understanding how technologies work at a system level, not just using tools at a surface level. <br><br>I have experience integrating AI tools, models, and platforms into development workflows. I actively apply them using modern web technologies and AI-driven frameworks.<br><br>I am comfortable translating ideas into functional, scalable projects, debugging end-to-end systems, and continuously improving implementations through experimentation and learning.
+🚀 AI Systems Engineer | CS Undergrad (AI & ML)
+I don’t just use tools; I architect reliable, system-level solutions. My focus is on the intersection of AI integration and scalable infrastructure, prioritizing data flow and architectural integrity over surface-level implementation. I specialize in taking complex ideas from concept to functional, end-to-end production systems.
+
+What I bring to the table:
+
+· System-Level Thinking: Deep focus on architecture, reliability, and how components interact under real-world constraints.
+
+· AI Implementation: Expertly embedding LLMs models into modern web workflows through rigorous debugging and iterative refinement.
+
+· Full-Cycle Ownership: Taking ownership of end-to-end development, from initial data pipeline design to scalable deployment.
+
+Current Project: Building a Unified Metro-Based Platform—an exploration into high-scale system design, automated transit workflows, and AI-driven infrastructure.
 
 
 ## 🌐 Socials:
