@@ -1,3 +1,4 @@
+<img width="2048" height="512" alt="Gemini_Generated_Image_xky8w8xky8w8xky8" src="https://github.com/user-attachments/assets/1f33b363-6d75-4bcd-92d8-4c9aa7e92649" />
 
 # 💫 About Me:
 🚀 AI Systems Engineer | CS Undergrad (AI & ML) 
